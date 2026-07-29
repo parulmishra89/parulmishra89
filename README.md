@@ -1,16 +1,3 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">Android Developer | Java & Kotlin</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=460&lines=Building+apps+that+solve+real+problems;Always+learning%2C+always+shipping;Open+to+collaboration+and+freelance+work" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" alt="followers" />
-</p>
-
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9333EA&height=200&section=header&text=Hi%20There!%20I'm%20Dayashankar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%" />
